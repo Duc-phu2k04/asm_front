@@ -1,0 +1,6 @@
+.container img {
+    max-width: 100px; /* Đặt chiều rộng tối đa */
+    height: auto; /* Chỉnh kích thước theo tỷ lệ chiều rộng */
+    display: block; /* Hiển thị hình ảnh trên một dòng mới */
+    margin: 0 auto; /* Canh giữa hình ảnh trong cột */
+}

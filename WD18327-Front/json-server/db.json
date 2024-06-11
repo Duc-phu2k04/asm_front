@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Samsung Galaxy S22 5G 128GB",
+      "description": "Samsung Galaxy S22 là bước nhảy vọt trong công nghệ video trên thế hệ di động",
+      "price": 1900000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/2/638109508116523500_oppo-reno8-t-4g-cam-4.jpg",
+      "id": "220f"
+    },
+    {
+      "name": "Samsung A50s máy 2sim ram 4G/64G ",
+      "description": "Chính Hãng, Cấu hình Cao cấp Cân mọi loại game nặng ",
+      "price": 3254364,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2024/4/22/638493832157161657_oppo-reno11-f-green-1.png",
+      "id": "7ab6"
+    },
+    {
+      "name": "Samsung Galaxy S22 5G 128GB",
+      "description": "Samsung Galaxy S22 là bước nhảy vọt trong công nghệ video trên thế hệ di động",
+      "price": 100003,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2024/3/11/638457766793496001_samsung-galaxy-s22-bora-dd-test.jpg",
+      "id": "3069"
+    },
+    {
+      "name": "Samsung Galaxy S22 5G 128GB",
+      "description": "Chính Hãng, Cấu hình Cao cấp Cân mọi loại game nặng",
+      "price": 67689,
+      "image": "https://img.lazcdn.com/g/p/a2eeaedae8519a8c9cf0558eb1cd037b.jpg_720x720q80.jpg_.webp",
+      "id": "238c"
+    }
+  ]
+}
